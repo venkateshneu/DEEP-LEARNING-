@@ -32,6 +32,7 @@ Demonstrated high accuracy in classifying emails.
 K-Nearest Neighbors (KNN):
 
 Achieved decent accuracy but lower precision compared to MNB and SVM.
+
 Random Forest:
 
 Yielded high accuracy and precision.
@@ -41,6 +42,7 @@ Multinomial Naive Bayes (MNB):
 Chosen ultimately for its effectiveness in text classification tasks, particularly when combined with TF-IDF vectorization.
 MNB Accuracy: 96.13%
 MNB Precision: 99.07%
+
 Further Enhancements:
 Precision over Accuracy: Due to the dataset's imbalance, emphasis was placed on 
 precision over accuracy in model evaluation.
